@@ -4,8 +4,6 @@ title: "EC Protocol: Shared State Without Global Consensus, and Why Conflicts Be
 date: 2026-05-16
 ---
 
-# EC Protocol: Shared State Without Global Consensus, and Why Conflicts Become Self-Punishing
-
 Multiple parties often need to share records: payments, vouchers, votes, names, credentials, ownership claims.
 
 The usual answer is simple: put the records in a database.
